@@ -60,5 +60,4 @@ The dataset contains information related to house properties, including:
 
 ---
 
-## 🛠️ Project Structure
 
